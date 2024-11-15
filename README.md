@@ -26,12 +26,12 @@
 
 ## Stats
 
-<div style="display: flex;align-items: start;justify-content: space-evenly;flex-wrap: wrap;gap: 16px;">
+<div style="display: flex;align-items: start;justify-content: start;flex-wrap: wrap;gap: 16px;">
     <img src="https://github-readme-stats.vercel.app/api?username=newjasjanpython&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="newjasjanpython" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newjasjanpython&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&count_private=true" alt="Most Used Languages" />
 </div>
 
-<div style="display: flex;flex-direction: column;align-items: start;justify-content: start;gap: 16px;">
+<div style="display: flex;flex-direction: column;align-items: center;justify-content: center;gap: 16px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=newjasjanpython&show_owner=true&theme=tokyonight&hide_border=true&repo=sorting_algos" alt="My stats"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=newjasjanpython&show_owner=true&theme=tokyonight&hide_border=true&repo=zed-for-me" alt="My stats"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=newjasjanpython&show_owner=true&theme=tokyonight&hide_border=true&repo=java-tasks" alt="My stats"/>
