@@ -26,10 +26,9 @@
 
 ## Stats
 
-<div style="display: flex;align-items: start;justify-content: start;flex-wrap: wrap;flex-direction: column;gap: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=newjasjanpython&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="newjasjanpython" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newjasjanpython&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&count_private=true" alt="Most Used Languages" />
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=newjasjanpython&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="newjasjanpython" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newjasjanpython&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&count_private=true" alt="Most Used Languages" />
 
 <br/>
 
