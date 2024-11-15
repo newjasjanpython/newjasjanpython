@@ -3,7 +3,7 @@
 
 **Back-End**
 
-![Python](https://img.shields.io/badge/Python-608BC1?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-608BC1?style=for-the-badge&logo=python&logoColor=DFF2EB)
 ![Django](https://img.shields.io/badge/Django-7ED4AD?style=for-the-badge&logo=django&logoColor=green)
 ![Rest Framework](https://img.shields.io/badge/Rest_Framework-CC2B52?style=for-the-badge&logo=django&logoColor=white)
 
