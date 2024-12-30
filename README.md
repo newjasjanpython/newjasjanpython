@@ -26,7 +26,7 @@
 
 ## Stats
 
-<div>
+<div style="min-height: fit-content;">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=newjasjanpython&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="newjasjanpython" />
 
